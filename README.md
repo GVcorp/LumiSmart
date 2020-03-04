@@ -2,8 +2,9 @@
 ## 안녕하세요 한글깨짐 개선되었나요?
 ### > git config --global gui.encoding utf-8
 #### 2020년 2월 26일 한글 개선 완료
+## GV스마트조명 홍보 및 OTA 테스트를 위한 시범운영기간 (~2020.6)
 
-# GVcorp IoT Smart Lighing Solution
+# GVcorp IoT Smart Lighting Solution
 # LumiSmart Guide
 
 ---
